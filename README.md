@@ -1,0 +1,1 @@
+This repository is using for practice in UI automation tests with the python.
