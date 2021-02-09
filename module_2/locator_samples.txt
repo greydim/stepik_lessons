@@ -1,0 +1,5 @@
+input#name
+//input[@name="userlastname"]
+input.third-field
+//input[@data-class="field4-for-tests"]
+//input[@class="form-control fifth-field"]
