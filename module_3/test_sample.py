@@ -1,5 +1,4 @@
 from selenium import webdriver
-import time
 
 simple_user_email = "nabetag654@200cai.com"
 simple_user_password = "qYO5Cj7BX"
